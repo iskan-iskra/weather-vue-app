@@ -52,7 +52,7 @@ export default {
         },
         enterInput: function(){
             this.$refs.input.blur()
-            this.chooseCity(this.reqiureCity[0])
+            this.chooseCity(this.requireCity[0])
         }
     },
 };
